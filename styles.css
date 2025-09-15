@@ -238,6 +238,16 @@ section {
     line-height: 1;
 }
 
+a {
+    color: var(--gray-100);
+    text-decoration: none;
+}
+
+.contact-item i.fa-file-pdf {
+    color: var(--red);
+}
+
+
 
 footer {
     padding: 2rem;
